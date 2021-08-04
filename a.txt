@@ -1,3 +1,7 @@
 noi dung a
 
+<<<<<<< HEAD
 sua foi boi master
+=======
+sua boi beta a1
+>>>>>>> beta
