@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 noi dung b
 
 cap nhat boi master
-=======
 noi dung b
->>>>>>> beta
